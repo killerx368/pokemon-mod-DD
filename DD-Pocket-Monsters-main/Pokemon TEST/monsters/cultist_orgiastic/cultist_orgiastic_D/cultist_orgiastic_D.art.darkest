@@ -1,0 +1,5 @@
+commonfx: .deathfx death_medium
+skill: .id "orgiastic_heal" .anim "attack_heal" .fx "heal" .targfx "heal_target"
+skill: .id "orgiastic_guard" .anim "attack_guard" .fx "guard"
+
+

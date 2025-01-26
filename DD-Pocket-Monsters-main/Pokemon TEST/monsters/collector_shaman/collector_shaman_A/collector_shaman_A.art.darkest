@@ -1,0 +1,3 @@
+commonfx: .deathfx death_small
+skill: .id "head_heal" .anim "attack_heal" .fx "heal" .targfx "heal_target" .area_pos_offset 0 -25 .target_area_pos_offset 0 -40
+skill: .id "head_buff" .anim "attack_heal" .fx "buff" .area_pos_offset 0 -25 .target_area_pos_offset 0 -40
